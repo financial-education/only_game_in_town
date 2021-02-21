@@ -1,1 +1,18 @@
 #+title: The Only Game in Town
+#+STARTUP: hideblocks
+
+This is a summary of some of the points made in:
+
+Bagehot, Walter. "The only game in town." Financial Analysts Journal 27.2 (1971): 12-14.
+
+* Three Types of Traders
+
+#+title: 
+|-----------+---------+-----------------------------------------------------------|
+| Type      | MM =/-? | Description                                               |
+|-----------+---------+-----------------------------------------------------------|
+| Informed  | -       | Has information on asset values the market doesn't        |
+| Noise     | +       | Thinks they have special information, but actuallydoesn't |
+| Liquidity | +       | Trades for typical investment purposes                    |
+|-----------+---------+-----------------------------------------------------------|
+
