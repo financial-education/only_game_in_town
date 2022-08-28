@@ -1,18 +1,26 @@
 #+title: The Only Game in Town
-#+STARTUP: hideblocks
+#+author: Matt Brigida, Ph.D.
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+HTML_HEAD: <style>pre.src{background:#343131;color:white;} </style>
+
 
 This is a summary of some of the points made in:
 
+#+begin_quote
 Bagehot, Walter. "The only game in town." Financial Analysts Journal 27.2 (1971): 12-14.
+#+end_quote
+
 
 * Three Types of Traders
 
-#+title: 
-|-----------+---------+-----------------------------------------------------------|
-| Type      | MM =/-? | Description                                               |
-|-----------+---------+-----------------------------------------------------------|
-| Informed  | -       | Has information on asset values the market doesn't        |
-| Noise     | +       | Thinks they have special information, but actuallydoesn't |
-| Liquidity | +       | Trades for typical investment purposes                    |
-|-----------+---------+-----------------------------------------------------------|
+The table below lists the three types of traders that the market maker confronts.  The second column indicates whether the market maker generally gains (+) or loses (-) from trading against each type.  The third columns describes each trader type's motivation for trading.
+
+#+title: Trader Description
+|-----------+---------+------------------------------------------------------------|
+| Type      | MM +/-? | Description                                                |
+|-----------+---------+------------------------------------------------------------|
+| Informed  | -       | Has information on asset values the market doesn't         |
+| Noise     | +       | Thinks they have special information, but actually doesn't |
+| Liquidity | +       | Trades for typical investment purposes                     |
+|-----------+---------+------------------------------------------------------------|
 
