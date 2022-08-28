@@ -10,6 +10,13 @@ This is a summary of some of the points made in:
 Bagehot, Walter. "The only game in town." Financial Analysts Journal 27.2 (1971): 12-14.
 #+end_quote
 
+See this video:
+
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1sOqYRdnP_g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#+end_export
+
+
 
 * Three Types of Traders
 
